@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+    border-radius: 5px;
+}
+
+#back-gra {
+    color: white;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(Akure_City\,_Ondo_State_Nigeria_Nigeria.jpg);
+    background-size: 100% 100%;
+}
+
+.main-heading {
+    margin-top: 70px;
+    background: #2a9d8f;
+    padding: 4px 8px;
+}
+
+.sub-heading {
+    margin-top: 30px;
+    background: #264653;
+    padding: 5px 10px;
+}
+
+#second-d {
+    background: #f1faee;
+    padding: 20px;
+}
+
+.activity-card {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+#third-d {
+    display: flex;
+    justify-content: space-around;
+}
+.img-t {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+#clet {
+    width: 100px;
+    height: 150px;
+    margin-top: 20px;
+}
+
+#all-d {
+    margin: 50px;
+    padding: 15px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    background: #a9def9;
+    width: 450px;
+    border-bottom: 5px solid #2b2d42;
+}
+#guide-d {
+    padding-top: 30px;
+    margin-left: 15px;
+}
